@@ -1,0 +1,191 @@
+{
+  "Meetings": {
+  "MeetingsMaster": [
+    {
+      "meetDate": "Yesterday",
+      "meetTot": "5",
+      "Meetings": [
+        {
+          "meetDate": "Yesterday",
+          "meetID": "4563",
+          "clientName": "Unison Pharmaceuticals Pvt. Ltd",
+          "clientShortAdd": "Jodhpur, Ahmedabad",
+          "startTime": "08:00 AM",
+          "meetStatus": "completed"
+        },
+        {
+          "meetDate": "Yesterday",
+          "meetID": "4563",
+          "clientName": "Prasad Group Of Companies",
+          "clientShortAdd": "Vatva, Ahmedabad",
+          "startTime": "10:30 PM",
+          "meetStatus": "completed"
+        },
+        {
+          "meetDate": "Yesterday",
+          "meetID": "4563",
+          "clientName": "Gujarat Ambuja Exports Ltd",
+          "clientShortAdd": " Bodakdev, Ahmedabad",
+          "startTime": "01:00 PM",
+          "meetStatus": "completed"
+        },
+        {
+          "meetDate": "Yesterday",
+          "meetID": "4563",
+          "clientName": "Voltamp Transformers Limited",
+          "clientShortAdd": "Anandnagar Road, Ahmedabad",
+          "startTime": "03:50 PM",
+          "meetStatus": "completed"
+        },
+        {
+          "meetDate": "Yesterday",
+          "meetID": "4563",
+          "clientName": "Progressive Lifecare",
+          "clientShortAdd": "Navrangpura, Ahmedabad",
+          "startTime": "05:30 PM",
+          "meetStatus": "completed"
+        }
+      ]
+    },
+    {
+      "meetDate": "tuesday, 25 Apr",
+      "meetTot": "4",
+      "Meetings": [
+        {
+          "meetDate": "Tuesday, 25 Apr",
+          "meetID": "4565",
+          "clientName": "Silicagel Products Mfg. Co",
+          "clientShortAdd": "Prahlad Nagar,Ahmedabad",
+          "startTime": "09:00 AM",
+          "meetStatus": "completed"
+        },
+        {
+          "meetDate": "Tuesday, 25 Apr",
+          "meetID": "4566",
+          "clientName": "Sumit Valves Manufacturing Co",
+          "clientShortAdd": "Gandhinagar, Ahmedabad",
+          "startTime": "12:30 PM",
+          "meetStatus": "completed"
+        },
+        {
+          "meetDate": "Tuesday, 25 Apr",
+          "meetID": "4563",
+          "clientName": "Gujarat Ambuja Exports Ltd",
+          "clientShortAdd": " Bodakdev, Ahmedabad",
+          "startTime": "01:00 PM",
+          "meetStatus": "completed"
+        },
+        {
+          "meetDate": "Tuesday, 25 Apr",
+          "meetID": "4563",
+          "clientName": "Electrical Brush Manufacturing Co",
+          "clientShortAdd": "Gandhi Road, Ahmedabad,",
+          "startTime": "05:50 PM",
+          "meetStatus": "completed"
+        }
+      ]
+    },
+    {
+      "meetDate": "Monday, 24 Apr",
+      "meetTot": "3",
+      "Meetings": [
+        {
+          "meetDate": "Monday, 24 Apr",
+          "meetID": "4565",
+          "clientName": "Anand Bricks Co.",
+          "clientShortAdd": "Sola Road, Ahmedabad",
+          "startTime": "2:00 AM",
+          "meetStatus": "completed"
+        },
+        {
+          "meetDate": "Monday, 24 Apr",
+          "meetID": "4566",
+          "clientName": "Hi-Life Manufacturing Co.",
+          "clientShortAdd": "Vatva Ahmedabad,",
+          "startTime": "1:30 PM",
+          "meetStatus": "completed"
+        },
+        {
+          "meetDate": "Monday, 24 Apr",
+          "meetID": "4563",
+          "clientName": "Rajnagar Tin Manufacturing Co",
+          "clientShortAdd": "Rakhial, Ahmedabad",
+          "startTime": "01:00 PM",
+          "meetStatus": "completed"
+        }
+      ]
+    },
+     {
+      "meetDate": "Friday, 21 Apr",
+      "meetTot": "2",
+      "Meetings": [
+        {
+          "meetDate": "Friday, 21 Apr",
+          "meetID": "4563",
+          "clientName": "Maruti Chemicals Company",
+          "clientShortAdd": "Satellite Road, Ahmedabad",
+          "startTime": "10:20 AM",
+          "meetStatus": "completed"
+        },
+        {
+          "meetDate": "Friday, 21 Apr",
+          "meetID": "4563",
+          "clientName": "Macons Equipments Pvt. Ltd",
+          "clientShortAdd": "Bodakdev, Ahmedabad",
+          "startTime": "05:20 PM",
+          "meetStatus": "completed"
+        }
+      ]
+    },
+    {
+      "meetDate": "Thursday, 20 Apr",
+      "meetTot": "5",
+      "Meetings": [
+        {
+          "meetDate": "Thursday, 20 Apr",
+          "meetID": "4563",
+          "clientName": "Unison Pharmaceuticals Pvt. Ltd",
+          "clientShortAdd": "Jodhpur, Ahmedabad",
+          "startTime": "08:00 AM",
+          "meetStatus": "completed"
+        },
+        {
+          "meetDate": "Thursday, 20 Apr",
+          "meetID": "4563",
+          "clientName": "Prasad Group Of Companies",
+          "clientShortAdd": "Vatva, Ahmedabad",
+          "startTime": "10:30 PM",
+          "meetStatus": "completed"
+        },
+        {
+          "meetDate": "Thursday, 20 Apr",
+          "meetID": "4563",
+          "clientName": "Gujarat Ambuja Exports Ltd",
+          "clientShortAdd": " Bodakdev, Ahmedabad",
+          "startTime": "01:00 PM",
+          "meetStatus": "completed"
+        },
+        {
+          "meetDate": "Thursday, 20 Apr",
+          "meetID": "4563",
+          "clientName": "Voltamp Transformers Limited",
+          "clientShortAdd": "Anandnagar Road, Ahmedabad",
+          "startTime": "03:50 PM",
+          "meetStatus": "completed"
+        },
+        {
+          "meetDate": "Thursday, 20 Apr",
+          "meetID": "4563",
+          "clientName": "Progressive Lifecare",
+          "clientShortAdd": "Navrangpura, Ahmedabad",
+          "startTime": "05:30 PM",
+          "meetStatus": "completed"
+        }
+      ]
+    }
+  ],
+  "result": 1,
+  "message": "Record Found Successfully !!!"
+}
+}
+
